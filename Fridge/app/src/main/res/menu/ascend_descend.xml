@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mn_atoz"
+        android:title="A to Z" />
+
+    <item android:id="@+id/mn_ztoa"
+        android:title="Z to A" />
+
+    <item android:id="@+id/mn_asc"
+        android:title="Expiry Date Ascending" />
+
+    <item android:id="@+id/mn_desc"
+        android:title="Expiry Date Descending" />
+</menu>
